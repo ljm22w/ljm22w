@@ -20,7 +20,7 @@
 
 **🏌️‍♀️🤸‍♂️🚴‍♀️What is your hobby?: Ham radio, programming**👨‍💻👨‍💻
 
-**💖What is your Love programming language?: python!!**
+**💖What is your favorite programming language?: python!!**
 
 **🕹️What's your position now?: Korea bycycle ham radio club Director of Public Relations**
 
@@ -31,7 +31,7 @@
 ### **What is currently being implemented or implemented?...📗**
 
 ```
-2022~: No fuck bot (Discord bot), html server, Stock analysis ai, Computer Remote Shutdown Program
+2022~: No fuck bot (Discord bot), html server, Stock analysis ai, Computer Remote Shutdown, reboot Program
 ```
 
 ### **What is your SNS account?**
