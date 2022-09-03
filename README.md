@@ -31,7 +31,7 @@
 ### **What is currently being implemented or implemented?...📗**
 
 ```
-2022~: No fuck bot (Discord bot), html server, Stock analysis ai, Computer Remote Shutdown, reboot Program
+2022~: No fuck bot (Discord bot), html server, Stock analysis ai, Computer Remote Shutdown and reboot Program
 ```
 
 ### **What is your SNS account?**
